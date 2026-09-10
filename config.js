@@ -9,7 +9,7 @@
 const CONFIG = {
   // Paste the Web App URL you get after deploying google-apps-script/Code.gs
   // Example: "https://script.google.com/macros/s/AKfycb.../exec"
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyPmL0PR8YY9GwGC6z4Co0Q3O3MGcAJ1d-omtpjOdv-W7GnaJZN3tH6KhhMAVsqeTEw/exec",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxUGc7ZJMSfjNx1eY5uDlAx2YdZDt79prsUB6E-JcSCMnLwkoVeg53sSj1AsTMfU1TkXA/exec",
 
   // Clinic WhatsApp number only (with country code, no + or spaces) used for wa.me links.
   // Do not use the call-only numbers below for WhatsApp.
